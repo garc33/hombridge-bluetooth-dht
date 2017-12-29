@@ -1,4 +1,4 @@
-# homebridge-bt-temp-sensor
+# homebridge-bluetooth-dht-sensor
 
 This is the Homebridge accessory for bluetooth DHT sensor backed by an Arduino.
 
